@@ -1,0 +1,1 @@
+{"id":"389fd684-351d-48f0-b1a2-81ecf5d65db8","space":6344,"runtime":"python3.7","name":"fast-api-weather","path":"9vl4nb","project":"c0rg9pf2","account":"144798365827","region":"ap-southeast-1","deps":["deta","fastapi","uvicorn"],"envs":null,"public":true,"log_level":"debug","cron":""}
